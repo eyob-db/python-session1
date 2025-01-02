@@ -1,1 +1,1 @@
-print("MY first lab")
+print("second lab")
